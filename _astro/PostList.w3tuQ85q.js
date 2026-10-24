@@ -1,0 +1,1 @@
+export{t as default}from"./PostList.UB1sXikS.js";

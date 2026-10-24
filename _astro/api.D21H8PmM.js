@@ -1,0 +1,1 @@
+var e=e=>`${`https://api.jiajunhuang.cc`.replace(/\/$/,``)}${e}`;function t(t,n){return fetch(e(t),{credentials:`include`,...n})}export{e as n,t};
